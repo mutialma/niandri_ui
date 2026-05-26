@@ -27,7 +27,7 @@ const ACTION_BUTTONS = [
   { label: 'Data Pelanggan Tidak Aktif',         icon: '👥', color: C.amber,  bg: C.amberLight  },
   { label: 'Ingatkan Update Data KTP',           icon: '🔔', color: C.orange, bg: C.orangeLight },
   { label: 'Implementasi Sistem',                icon: '⚙️', color: C.teal,   bg: C.tealLight   },
-  { label: 'Update Kode Unik',                   icon: '🔑', color: '#7C3AED',bg: '#EDE9FE'     },
+  { label: 'Update Kode Unik',                   icon: '🔑', color: C.blue,   bg: '#EDE9FE'     },
   { label: 'Export Data ke Excel',               icon: '📊', color: C.green,  bg: C.greenLight  },
   { label: 'Update PPN 11%',                     icon: '💱', color: C.orange, bg: C.orangeLight },
   { label: 'Migrasi Sales',                      icon: '🔄', color: C.blue,   bg: C.blueLight   },
